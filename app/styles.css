@@ -1,0 +1,22 @@
+
+.logout-button{
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: #fff;
+  border-radius: 4px;
+  margin-right: 10px;
+ 
+
+
+}
+.image {
+  position: fixed; 
+  top:5px;
+  left: 2px;
+  
+  
+}
+

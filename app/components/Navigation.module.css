@@ -1,0 +1,42 @@
+
+.navigation{
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.header {
+    
+    margin-top: -8px;
+    margin-left: 80px;
+    background-color: #f8f9fb;
+    margin-bottom: 5px;
+    
+    height: 60px;
+    
+    
+   
+
+
+}
+.navigation li{
+    margin-right: 10px;
+    display: flex; 
+    align-items: center;
+
+}
+.Link{
+    color: rgb(0, 0, 0);
+    line-height: 1;
+    text-decoration: none;
+
+    margin-top: 25px;
+    padding-right: 20px;
+    padding-left: 20px;
+   
+
+}
