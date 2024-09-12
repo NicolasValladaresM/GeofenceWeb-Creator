@@ -1,5 +1,7 @@
 # Proyecto desarrollado durante la segunda práctica profesional.
 
+## Aplicación web en la cual, el usuario autenticado podía dibujar o eliminar polígonos dentro de un mapa interactivo, estableciendo así zonas geográficas rojas. También podía visualizar la ubicación de usuarios dentro de las zonas definidas.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
