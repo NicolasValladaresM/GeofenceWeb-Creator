@@ -12,7 +12,7 @@ yarn dev
 pnpm dev
 ```
 
-(Screenshot_5.png)
+![Captura de Pantalla](Screenshot_5.png)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
